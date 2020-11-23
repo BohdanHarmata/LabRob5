@@ -1,0 +1,10 @@
+C:\Users\Роман Коновал\Desktop\HW\Lab Rob5.1\Lab Rob5.1\bin\Debug\Lab Rob5.1.exe.config
+C:\Users\Роман Коновал\Desktop\HW\Lab Rob5.1\Lab Rob5.1\bin\Debug\Lab Rob5.1.exe
+C:\Users\Роман Коновал\Desktop\HW\Lab Rob5.1\Lab Rob5.1\bin\Debug\Lab Rob5.1.pdb
+C:\Users\Роман Коновал\Desktop\HW\Lab Rob5.1\Lab Rob5.1\obj\Debug\Lab Rob5.1.csprojAssemblyReference.cache
+C:\Users\Роман Коновал\Desktop\HW\Lab Rob5.1\Lab Rob5.1\obj\Debug\Lab_Rob5._1.Form1.resources
+C:\Users\Роман Коновал\Desktop\HW\Lab Rob5.1\Lab Rob5.1\obj\Debug\Lab_Rob5._1.Properties.Resources.resources
+C:\Users\Роман Коновал\Desktop\HW\Lab Rob5.1\Lab Rob5.1\obj\Debug\Lab Rob5.1.csproj.GenerateResource.cache
+C:\Users\Роман Коновал\Desktop\HW\Lab Rob5.1\Lab Rob5.1\obj\Debug\Lab Rob5.1.csproj.CoreCompileInputs.cache
+C:\Users\Роман Коновал\Desktop\HW\Lab Rob5.1\Lab Rob5.1\obj\Debug\Lab Rob5.1.exe
+C:\Users\Роман Коновал\Desktop\HW\Lab Rob5.1\Lab Rob5.1\obj\Debug\Lab Rob5.1.pdb

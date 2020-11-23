@@ -1,0 +1,10 @@
+C:\Users\Роман Коновал\Desktop\HW\cone\cone\bin\Debug\cone.exe.config
+C:\Users\Роман Коновал\Desktop\HW\cone\cone\bin\Debug\cone.exe
+C:\Users\Роман Коновал\Desktop\HW\cone\cone\bin\Debug\cone.pdb
+C:\Users\Роман Коновал\Desktop\HW\cone\cone\obj\Debug\cone.csprojAssemblyReference.cache
+C:\Users\Роман Коновал\Desktop\HW\cone\cone\obj\Debug\cone.Form1.resources
+C:\Users\Роман Коновал\Desktop\HW\cone\cone\obj\Debug\cone.Properties.Resources.resources
+C:\Users\Роман Коновал\Desktop\HW\cone\cone\obj\Debug\cone.csproj.GenerateResource.cache
+C:\Users\Роман Коновал\Desktop\HW\cone\cone\obj\Debug\cone.csproj.CoreCompileInputs.cache
+C:\Users\Роман Коновал\Desktop\HW\cone\cone\obj\Debug\cone.exe
+C:\Users\Роман Коновал\Desktop\HW\cone\cone\obj\Debug\cone.pdb
